@@ -1,11 +1,7 @@
 ### Hi there, welcome to my GitHub 👋
-### こんにちは、私のギットハブへようこそ 👋
-### Hola, bienvenido a mi GitHub 👋
-### Olá, bem vindo ao meu GitHub 👋
-
-
-<!--
-**JonatasFontele/JonatasFontele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
+# こんにちは、私のギットハブへようこそ 👋
+# Hola, bienvenido a mi GitHub 👋
+# Olá, bem vindo ao meu GitHub 👋
 
 My name is Jonatas Fontele Dourado. I'm majoring in Computer Science.
 
