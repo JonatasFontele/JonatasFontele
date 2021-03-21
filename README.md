@@ -5,7 +5,7 @@
 
 
 <!--
-**JonatasFontele/JonatasFontele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JonatasFontele/JonatasFontele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 My name is Jonatas Fontele Dourado. I'm majoring in Computer Science.
 
