@@ -10,9 +10,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jonyfontele/)](https://www.instagram.com/jonyfontele/)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-#F8F8F5?style=for-the-badge&logoColor=white&link=http://lattes.cnpq.br/7659722605685633 )](http://lattes.cnpq.br/7659722605685633 )
 
-https://img.shields.io/badge/Currículo-Lattes-f39f37
+![image](https://img.shields.io/badge/Currículo-Lattes-f39f37)
 
-https://img.shields.io/badge/left-right-f39f37
+![image](https://img.shields.io/badge/left-right-f39f37)
+
 
 My name is Jonatas Fontele Dourado. I have bachelor degree in Computer Science at the State University of Ceará (UECE). Expected Graduation: June 2021. Former scientific
 initiation scholarship holder (IC/UECE) at the Scientific Computing Laboratory (LCC - UECE), where researched Geoprocessing, Clusters, Evolutionary Computing and Data Mining.
