@@ -3,7 +3,7 @@
 ### Olá, bem vindo ao meu GitHub 👋
 ### こんにちは、私のギットハブへようこそ 👋
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/JonatasFontele)(https://github.com/JonatasFontele)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jonyfontele/)](https://www.instagram.com/jonyfontele/)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-{SECONDARY}-#F8F8F5?style=for-the-badge&logo=lattes&logoColor=white&link=http://lattes.cnpq.br/7659722605685633 )](http://lattes.cnpq.br/7659722605685633 )
