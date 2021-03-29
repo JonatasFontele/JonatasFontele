@@ -16,6 +16,7 @@
     </a>
 </div>
 
+
 My name is Jonatas Fontele Dourado. I have bachelor degree in Computer Science at the State University of Ceará (UECE). Expected Graduation: June 2021. Former scientific
 initiation scholarship holder (IC/UECE) at the Scientific Computing Laboratory (LCC - UECE), where researched Geoprocessing, Clusters, Evolutionary Computing and Data Mining.
 Former member of Associação Acens de Tecnologia, where worked with Marketing and Web development.
