@@ -7,7 +7,8 @@ My name is Jonatas Fontele Dourado. I have bachelor degree in Computer Science a
 initiation scholarship holder (IC/UECE) at the Scientific Computing Laboratory (LCC - UECE), where researched Geoprocessing, Clusters, Evolutionary Computing and Data Mining.
 Former member of Associação Acens de Tecnologia, where worked with Marketing and Web development.
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=plastic&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/jonyfontele/)](https://www.instagram.com/jonyfontele/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=plastic&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/jonyfontele/)](https://www.instagram.com/jonyfontele/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=plastic&logo=Instagram&logoColor=white&link=https://www.java.com/)](https://www.java.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
 [![Lattes Badge](https://img.shields.io/badge/-Lattes-353E58?style=plastic&logo={ICON}&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
