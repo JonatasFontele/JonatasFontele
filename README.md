@@ -1,9 +1,7 @@
 ### Hi there, welcome to my [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele) 👋
 ### Hola, bienvenido a mi [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele) 👋
 ### Olá, bem vindo ao meu [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele) 👋
-### こんにちは、私のギットハブ
-[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)
-へようこそ 👋
+### こんにちは、私のギットハブ[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)へようこそ 👋
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/jonyfontele/)](https://www.instagram.com/jonyfontele/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
