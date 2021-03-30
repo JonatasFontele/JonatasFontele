@@ -14,11 +14,11 @@ Former member of Associação Acens de Tecnologia, where worked with Marketing a
 
 - 🔭 I’m currently working on building my Data Science portfolio.
 - 🌱 I’m currently learning machine learning.
-- 🚀 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=plastice&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/) [![Colab Badge](https://img.shields.io/badge/Google-Colab-F9AB00?style=plastic&logo=Google-Colab&logoColor=white&link=https://colab.research.google.com/)](https://colab.research.google.com/)
+- 🚀 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/) [![Colab Badge](https://img.shields.io/badge/Google-Colab-F9AB00?style=plastic&logo=Google-Colab&logoColor=white&link=https://colab.research.google.com/)](https://colab.research.google.com/)
 - 👯 I’m looking to collaborate on data science applications.
 - 🤔 I’m looking for help with jobs 😄
 - 💬 Ask me about data mining and astronomy, I am glad to help. 
-- 📫 How to reach me: [![Gmail badge](https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=jonatasfontele@gmail.com)] jonatasfontele@gmail.com
+- 📫 How to reach me: jonatasfontele@gmail.com ![Gmail badge](https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=jonatasfontele@gmail.com)
 - ⚡ Fun fact: I love astrophysics and astronomy, so I am developing something about it.
 
 <p align="center">
