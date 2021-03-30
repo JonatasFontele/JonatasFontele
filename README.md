@@ -7,7 +7,7 @@ My name is Jonatas Fontele Dourado. I have bachelor degree in Computer Science a
 Expected Graduation: June 2021. 
 Former scientific initiation scholarship holder (IC/UECE) at the Scientific Computing Laboratory (LCC - UECE), 
 where researched Geoprocessing, Clusters, Evolutionary Computing and Data Mining.
-Former member of Associação Acens de Tecnologia, where worked with Marketing and Web development.'''
+Former member of Associação Acens de Tecnologia, where worked with Marketing and Web development.
 ```
 [![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonyfontele/)](https://www.instagram.com/jonyfontele/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
