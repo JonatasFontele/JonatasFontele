@@ -10,7 +10,7 @@ Former member of Associação Acens de Tecnologia, where worked with Marketing a
 [![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonyfontele/)](https://www.instagram.com/jonyfontele/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
 [![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
-[![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=Lattes-Icon.png&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
+[![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=ORCID&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
 
 - 🔭 I’m currently working on building my Data Science portfolio.
 - 🌱 I’m currently learning machine learning.
