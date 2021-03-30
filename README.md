@@ -9,10 +9,13 @@ Former member of Associação Acens de Tecnologia, where worked with Marketing a
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/jonyfontele/)](https://www.instagram.com/jonyfontele/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
-[![Lattes Badge](https://img.shields.io/badge/-Lattes-353E58?style=flat-square&logo={ICON}&logoColor=white&link=http://lattes.cnpq.br/7659722605685633 )](http://lattes.cnpq.br/7659722605685633 )
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
+[![Orcid Badge](https://img.shields.io/badge/-Orcid-A6CE39?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-353E58?style=flat-square&logo={ICON}&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
 
 - 🔭 I’m currently working on building my Data Science portfolio.
 - 🌱 I’m currently learning machine learning.
+- 🚀 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/)[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
 - 👯 I’m looking to collaborate on data science applications.
 - 🤔 I’m looking for help with jobs 😄
 - 💬 Ask me about data mining and astronomy, I am glad to help. 
