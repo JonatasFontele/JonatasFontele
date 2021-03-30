@@ -19,7 +19,7 @@ Former member of Associação Acens de Tecnologia, where worked with Marketing a
 - 👯 I’m looking to collaborate on data science applications.
 - 🤔 I’m looking for help with jobs 😄
 - 💬 Ask me about data mining and astronomy, I am glad to help. 
-- 📫 How to reach me: [![Gmail badge](https://img.shields.io/badge/jonatasfontele@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=jonatasfontele@gmail.com)](jonatasfontele@gmail.com) link=jonatasfontele@gmail.com
+- 📫 How to reach me: [![Gmail badge](https://img.shields.io/badge/jonatasfontele@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=jonatasfontele@gmail.com)](link=jonatasfontele@gmail.com)jonatasfontele@gmail.com
 - ⚡ Fun fact: I love astrophysics and astronomy, so I am developing something about it.
 
 <p align="center">
