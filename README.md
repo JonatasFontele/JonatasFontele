@@ -24,7 +24,7 @@ Former member of Associação Acens de Tecnologia, where worked with Marketing a
 - 📫 if 'reach me' then
     - begin
         -   Send![Gmail badge](https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=jonatasfontele@gmail.com)(jonatasfontele@gmail.com);
-    - end
+    - end;
 
 <p align="center">
     <a href="https://github.com/JonatasFontele?tab=repositories">
