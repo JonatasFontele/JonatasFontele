@@ -1,4 +1,3 @@
-```
 ### Hello world, welcome to my [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele) 👋
 ### Hola mundo, bienvenido a mi [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele) 👋
 ### Olá mundo, bem vindo ao meu [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele) 👋
@@ -21,7 +20,7 @@
         -   Send![Gmail badge](https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=jonatasfontele@gmail.com)(jonatasfontele@gmail.com);
     - end;
 
-
+```
 Former scientific initiation scholarship holder (IC/UECE) at the Scientific Computing Laboratory (LCC - UECE), 
 where researched Geoprocessing, Clusters, Evolutionary Computing and Data Mining.
 Former member of Associação Acens de Tecnologia, where worked with Marketing and Web development.
