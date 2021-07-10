@@ -14,7 +14,7 @@
 - 💼 Database Analyst at Christus University Center - Unichristus.
 - 🧐 Interested in Data Science. Recent focus on Database.
 - 🔭 Love for Astrophysics and Astronomy.
-- - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=ORCID&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
 [![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
 - 📫 if 'reach me' then
