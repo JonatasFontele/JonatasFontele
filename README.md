@@ -11,7 +11,7 @@
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) 
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/) 
 [![Colab Badge](https://img.shields.io/badge/Google-Colab-F9AB00?style=flat&labelColor=F9AB00&logo=Google-Colab&logoColor=white&link=https://colab.research.google.com/)](https://colab.research.google.com/) 
-[![Qgis Badge](https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white&link=https://qgis.org/)](https://qgis.org/)  
+[![Qgis Badge](https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white&link=https://qgis.org/)](https://qgis.org/) 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) 
 [![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white&link=https://www.embarcadero.com/br/products/delphi/starter)](https://www.embarcadero.com/br/products/delphi/starter) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
