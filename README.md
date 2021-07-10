@@ -1,12 +1,10 @@
-## Hello world, welcome to my [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)  こんにちは世界、私の[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)へようこそ 👋
+## Hello world, welcome to my [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele). 
+こんにちは世界、私の[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)へようこそ。 👋
 
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=ORCID&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
 [![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
-- 💼 Database Analyst at Christus University Center - Unichristus.
-- 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE). Expected Graduation: August 2021.
-- 🧐 Interested in Data Science. Recent focus on Database.
-- 💹 Currently working on application development for academic management software database, and on learning Machine Learning.
+- 💹 Currently working on application development for academic management database, and on learning Machine Learning.
 - 🚀 [![Microsoft SQL Server Badge](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white&link=https://www.microsoft.com/en-us/sql-server/sql-server-downloads)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) 
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/) 
@@ -16,7 +14,10 @@
 [![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white&link=https://www.embarcadero.com/br/products/delphi/starter)](https://www.embarcadero.com/br/products/delphi/starter) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
 [![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
-- 🔭 I love astrophysics and  astronomy, so I am developing something about it.
+- 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE). Expected Graduation: August 2021.
+- 💼 Database Analyst at Christus University Center - Unichristus.
+- 🧐 Interested in Data Science. Recent focus on Database.
+- 🔭 Love for Astrophysics and Astronomy.
 - 📫 if 'reach me' then
     - begin
         -   Send![Gmail badge](https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=jonatasfontele@gmail.com)(jonatasfontele@gmail.com);
