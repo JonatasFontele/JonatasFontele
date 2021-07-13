@@ -19,10 +19,10 @@
 [![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
 
 ```
-- 📫 if 'reach me' then
-    - begin
-        -   SendMail(jonatasfontele@gmail.com);
-    - end;
+📫 if 'reach me' then
+    begin
+        SendMail(jonatasfontele@gmail.com);
+    end;
 ```
 
 <p align="center">
