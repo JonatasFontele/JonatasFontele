@@ -21,7 +21,7 @@
 ```
 - 📫 if 'reach me' then
     - begin
-        -   Send![Gmail badge](https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=jonatasfontele@gmail.com)(jonatasfontele@gmail.com);
+        -   SendMail(jonatasfontele@gmail.com);
     - end;
 ```
 
