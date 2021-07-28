@@ -1,7 +1,7 @@
 ## Hello world, welcome to my [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)! こんにちは世界、私の[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)へようこそ！ 👋
 
 - 💹 Currently working on application development for academic management database, and on learning Machine Learning.
-- 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE). Expected Graduation: August 2021.
+- 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE).
 - 🚀 [![Microsoft SQL Server Badge](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white&link=https://www.microsoft.com/en-us/sql-server/sql-server-downloads)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) 
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/) 
