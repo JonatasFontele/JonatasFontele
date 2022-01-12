@@ -12,7 +12,7 @@
 [![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white&link=https://www.embarcadero.com/br/products/delphi/starter)](https://www.embarcadero.com/br/products/delphi/starter) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
 [![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
-- 💼 Database Analyst at Christus University Center - Unichristus.
+- 💼 Database Analyst.
 - 🧐 Interested in Data Science and Machine Learning. Recent focus on Database.
 - 🔭 Love for Astronomy and Astrophysics.
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele-1230053a/)](https://www.linkedin.com/in/jonatas-fontele-1230053a/)
