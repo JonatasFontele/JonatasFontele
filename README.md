@@ -1,7 +1,7 @@
 ## Hello world, welcome to my [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)! こんにちは世界、私の[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)へようこそ！ 👋
 
 - 👽 Jonatas Fontele Dourado
-- 👩‍💻 Currently working with data analysis and reports.
+- 👩‍💻 Currently working with developing and data analysis.
 - 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE).
 - 🚀 [![Microsoft SQL Server Badge](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white&link=https://www.microsoft.com/en-us/sql-server/sql-server-downloads)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) 
@@ -11,7 +11,7 @@
 [![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white&link=https://www.embarcadero.com/br/products/delphi/starter)](https://www.embarcadero.com/br/products/delphi/starter) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
 [![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
-- 💼 Database Analyst.
+- 💼 Developer.
 - 🧐 Interested in Data Science and Machine Learning. Recent focus on Database.
 - 🔭 Love for Astronomy, Astrophysics and unravel data.
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele/)](https://www.linkedin.com/in/jonatas-fontele/)
