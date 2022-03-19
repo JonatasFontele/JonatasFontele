@@ -12,7 +12,7 @@
 [![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
 - 💼 Developer.
 - 🧐 Interested in Data Science, Data Analysis and Databases.
-- 🔭 Love for Astronomy, Astrophysics and unravel data.
+- 🔭 Love for Astronomy and Astrophysics.
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele/)](https://www.linkedin.com/in/jonatas-fontele/)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=ORCID&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
 [![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
