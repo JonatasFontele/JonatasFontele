@@ -3,8 +3,11 @@
 ## こんにちは世界、私の[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)へようこそ！ 👋
 
 - 👽 Jonatas Fontele Dourado
-- 👩‍💻 Currently working with system development usign Spring, studying machine learning and japanese.
-- 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE).
+- 👩‍💻 Currently working with system development usign Spring, studying machine learning and japanese
+- 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE)
+- 💼 Developer
+- 🧐 Interested in Data Science, Data Analysis and Databases
+- 🔭 Love for Astronomy and Astrophysics
 - 🚀 [![Microsoft SQL Server Badge](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white&link=https://www.microsoft.com/en-us/sql-server/sql-server-downloads)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) 
@@ -12,9 +15,6 @@
 [![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white&link=https://www.embarcadero.com/br/products/delphi/starter)](https://www.embarcadero.com/br/products/delphi/starter) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
 [![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
-- 💼 Developer.
-- 🧐 Interested in Data Science, Data Analysis and Databases.
-- 🔭 Love for Astronomy and Astrophysics.
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele/)](https://www.linkedin.com/in/jonatas-fontele/)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=ORCID&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
 [![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
