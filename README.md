@@ -3,7 +3,7 @@
 ## こんにちは世界、私の[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)へようこそ！ 👋
 
 - 👽 Jonatas Fontele Dourado
-- 🎯 Currently working with system development using Angular and Spring, studying machine learning and japanese
+- 🎯 Currently working with system development using Angular and Spring, deploying on GCloud, and studying machine learning and japanese
 - 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE)
 - 💼 Developer
 - 🧐 Interested in Data Science and systems development
