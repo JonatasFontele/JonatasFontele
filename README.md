@@ -1,8 +1,9 @@
 ### こんにちは世界、私の[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://github.com/JonatasFontele)へようこそ！ 👋
 ***
 - 👽 Jonatas Fontele Dourado
-- 🎯 Currently working with development using Angular, Spring, GCloud, and studying machine learning, meteors and japanese
-- 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE)
+- 🎯 Currently working with Java Spring Boot, Angular and Google Cloud
+- 🚀 Studying machine learning, meteors and foreign languages
+- 🎓 Bachelor degree in Computer Science at State University of Ceará (UECE)
 - 💼 Developer
 - 🧐 Interested in Data Science and Python development
 - 🔭 Love for Astronomy and Astrophysics
@@ -29,8 +30,5 @@
 <p align="center">
     <a href="https://github.com/JonatasFontele?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasFontele&layout=compact" width="400" height="200"/>
-    </a>
-    <a href="https://github.com/JonatasFontele?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=JonatasFontele&,issues&show_icons=true" width="400" height="200"/>
     </a>
 </p>
