@@ -7,6 +7,7 @@
 - 💼 Developer
 - 🧐 Interested in Data Science and Python development
 - 🔭 Love for Astronomy and Astrophysics
+
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) 
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/) 
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://angular.io/)](https://angular.io/) 
@@ -17,7 +18,7 @@
 [![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white&link=https://www.embarcadero.com/br/products/delphi/starter)](https://www.embarcadero.com/br/products/delphi/starter) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
 
-📌 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele/)](https://www.linkedin.com/in/jonatas-fontele/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele/)](https://www.linkedin.com/in/jonatas-fontele/)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=ORCID&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
 [![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
 
