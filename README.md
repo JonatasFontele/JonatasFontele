@@ -6,7 +6,7 @@
 - 🎯 Currently working with development using Angular, Spring, GCloud, and studying machine learning, meteors and japanese
 - 🎓 Bachelor degree in Computer Science at the State University of Ceará (UECE)
 - 💼 Developer
-- 🧐 Interested in Data Science and DevOps
+- 🧐 Interested in Data Science and Development
 - 🔭 Love for Astronomy and Astrophysics
 - 🚀 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) 
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/) 
