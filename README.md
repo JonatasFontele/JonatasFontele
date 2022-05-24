@@ -18,16 +18,16 @@
 [![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white&link=https://www.embarcadero.com/br/products/delphi/starter)](https://www.embarcadero.com/br/products/delphi/starter) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele/)](https://www.linkedin.com/in/jonatas-fontele/)
-[![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=ORCID&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
-[![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
-
 ```
 📫 if 'reach me' then
     begin
         SendMail(jonatasfontele@gmail.com);
     end;
 ```
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonatas-fontele/)](https://www.linkedin.com/in/jonatas-fontele/)
+[![Lattes Badge](https://img.shields.io/badge/Lattes-353E58?style=plastic&logo=ORCID&logoColor=white&link=http://lattes.cnpq.br/7659722605685633)](http://lattes.cnpq.br/7659722605685633)
+[![Orcid Badge](https://img.shields.io/badge/Orcid-A6CE39?style=plastic&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-6220-3741)](https://orcid.org/0000-0001-6220-3741)
 
 <p align="center">
     <a href="https://github.com/JonatasFontele?tab=repositories">
