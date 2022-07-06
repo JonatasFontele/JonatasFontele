@@ -8,9 +8,9 @@
 - 🧐 Interested in Data Science and Python development
 - 🔭 Love for Astronomy and Astrophysics
 
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) 
-[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/) 
-[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://angular.io/)](https://angular.io/) 
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) 
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/) 
+[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&link=https://angular.io/)](https://angular.io/) 
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=Google-Cloud&logoColor=white&link=https://cloud.google.com/)](https://cloud.google.com/)
 [![Microsoft SQL Server Badge](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white&link=https://www.microsoft.com/en-us/sql-server/sql-server-downloads)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) 
