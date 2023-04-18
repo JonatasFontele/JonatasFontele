@@ -9,8 +9,7 @@
 - 🔭 Love for Astronomy and Astrophysics
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/) 
-[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/) 
-[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&link=https://angular.io/)](https://angular.io/) 
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/)  
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/) 
 [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&link=https://flask.palletsprojects.com/)](https://flask.palletsprojects.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white&link=https://cloud.google.com/)](https://cloud.google.com/)
