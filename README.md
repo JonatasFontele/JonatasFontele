@@ -13,7 +13,6 @@
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/) 
 [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&link=https://flask.palletsprojects.com/)](https://flask.palletsprojects.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white&link=https://cloud.google.com/)](https://cloud.google.com/)
-[![Microsoft SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white&link=https://www.microsoft.com/en-us/sql-server/sql-server-downloads)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
 [![Qgis Badge](https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white&link=https://qgis.org/)](https://qgis.org/) 
 [![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=Delphi&logoColor=white&link=https://www.embarcadero.com/br/products/delphi/starter)](https://www.embarcadero.com/br/products/delphi/starter) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
