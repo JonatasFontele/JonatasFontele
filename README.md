@@ -7,6 +7,7 @@
 - 💼 Developer
 - 🧐 Interested in Data Science and Python development
 - 🔭 Love for Astronomy and Astrophysics
+- 🦾 Languages and Tools:
 
 [![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&link=https://www.java.com/)](https://www.java.com/)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&link=https://spring.io/)](https://spring.io/)
