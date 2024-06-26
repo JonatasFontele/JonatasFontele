@@ -1,12 +1,12 @@
 ### こんにちは世界、私の[![Github Badge](https://img.shields.io/badge/-ギットハブ-000?style=flat&logo=Github&logoColor=white&link=https://github.com/JonatasFontele)](https://translate.google.com.br/?sl=ja&tl=en&text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C%E3%80%81%E7%A7%81%E3%81%AE%E3%82%AE%E3%83%83%E3%83%88%E3%83%8F%E3%83%96%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81&op=translate)へようこそ！👋
 ***
 - 👽 Jonatas Fontele Dourado
-- 🎯 Currently working with Data Analysis and Data Engineering
+- 🎯 Currently working with Data Analytics and Data Architecture Design
 - 🚀 Developing with Python using Flask and Java using SpringBoot, also studing meteors and foreign languages
 - 🎓 Bachelor degree in Computer Science at State University of Ceará (UECE)
 - 💼 Data Analyst
-- 🧐 Interested in Data Science and Python development
-- 🔭 Love for Astronomy and Astrophysics
+- 🧐 Interested in applying Data Science to natural scientific problems
+- 🔭 Love for Astronomy, Astrophysics and Meteorology
 - 🦾 Languages and Tools:
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
