@@ -2,7 +2,7 @@
 ***
 - 👽 Jonatas Fontele Dourado
 - 🎯 Currently working with Data Analytics and Data Architecture Design
-- 🚀 Developing with Python using Flask and Java using SpringBoot, also studing meteors and foreign languages
+- 🚀 Developing with Python using Flask and Java using SpringBoot, also studying meteors and foreign languages
 - 🎓 Bachelor degree in Computer Science at State University of Ceará (UECE)
 - 💼 Data Analyst
 - 🧐 Interested in applying Data Science to natural scientific problems
