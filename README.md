@@ -4,12 +4,12 @@
 - 🎯 Currently working with Data Analytics and Database Administration
 - 🚀 Developing a meteor clustering application and other tools: [MeteorCluster](https://www.jonatasdourado.com/meteorcluster)
 - 🔍 Studying meteoritics and foreign languages
-- 🎓 BSc Computer Science - State University of Ceará (UECE) - Ceará - Brazil
-- 💼 Data Analyst @ Attorney General's Office of the State of Ceará (PGE) - Ceará - Brazil
+- 🎓 MBA Data Science — University of Fortaleza (Unifor) — Ongoing
+- 🎓 BSc Computer Science — State University of Ceará (UECE) — Ceará — Brazil
+- 💼 Data Analyst at Attorney General's Office of the State of Ceará (PGE) — Ceará — Brazil
 - 🧐 Interested in applying Data Science to natural scientific problems
 - 🔭 Love for Astronomy, Astrophysics and Meteorology
 - 🦾 Languages and Tools:
-
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
