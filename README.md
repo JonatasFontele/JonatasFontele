@@ -10,6 +10,7 @@
 - 🧐 Interested in applying Data Science to natural scientific problems
 - 🔭 Love for Astronomy, Astrophysics and Meteorology
 - 🦾 Languages and Tools:
+
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
