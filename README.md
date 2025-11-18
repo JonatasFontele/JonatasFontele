@@ -3,9 +3,7 @@
 - 👽 Jonatas Fontele Dourado
 - 🎯 Currently working with Data Analytics and Database Administration
 - 🚀 Developing a meteor clustering application and other tools: [MeteorCluster](https://www.jonatasdourado.com/meteorcluster)
-- 🔍 Studying meteoritics, climatology, meteorology and foreign languages
-<!-- - 🎓 MBA Data Science — University of Fortaleza (Unifor) — Ongoing -->
-<!-- - 🎓 MSc in Climatology — State University of Ceará (UECE) — Ongoing  -->
+- 🔍 Studying meteoritics, climatology, meteorology and foreign languages<!-- - 🎓 MBA Data Science — University of Fortaleza (Unifor) — Ongoing --><!-- - 🎓 MSc in Climatology — State University of Ceará (UECE) — Ongoing  -->
 - 🎓 BSc Computer Science — State University of Ceará (UECE) — Ceará — Brazil
 - 💼 Data Analyst at Attorney General's Office of the State of Ceará (PGE) — Ceará — Brazil
 - 🧐 Interested in applying Data Science to natural scientific problems
